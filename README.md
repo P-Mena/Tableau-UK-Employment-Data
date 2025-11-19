@@ -15,7 +15,7 @@ A separated bar chart showing the **employment change across major industries**.
 - Allows users to compare sectors side by side  
 - Highlights industries with the highest growth or decline  
 
-📸 *[Insert screenshot here]*
+📸 ![Screenshot](images/barchart.png)
 
 ---
 
@@ -24,7 +24,7 @@ A highlight table displaying the **top 10 sub-industries** based on employment v
 - Uses color intensity to emphasize highest employment  
 - Helps identify which sub-sectors are leading the labor market  
 
-📸 *[Insert screenshot here]*
+📸 ![Screenshot](images/highligh_table.png)
 
 ---
 
@@ -33,7 +33,7 @@ A bubble chart visualizing **employment distribution by city**.
 - Bubble size represents employment values  
 - Useful for quickly identifying the most populated employment hubs  
 
-📸 *[Insert screenshot here]*
+📸 ![Screenshot](images/bubbles_chart.png)
 
 ---
 
@@ -43,7 +43,7 @@ A geographic map showing **employment change across UK cities**.
 - Allows users to observe regional trends and compare areas  
 - Helps identify cities with growing or declining job markets  
 
-📸 *[Insert screenshot here]*
+📸 ![Screenshot](images/map_chart.png)
 
 ---
 
@@ -74,7 +74,7 @@ This dashboard helps uncover insights such as:
 
 ## 🚀 Explore the Dashboard  
 👉 View the full interactive dashboard on Tableau Public:  
-🔗 *[Insert your Tableau Public link here]*
+🔗 [Tableau Public profile link](https://public.tableau.com/app/profile/filomena.pedante/viz/Dashboard-Mena/Dashboard1)
 
 ---
 
